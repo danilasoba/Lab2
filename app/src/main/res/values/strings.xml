@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Lab2</string>
+    <string name="app_name">WordCharCounterApp</string>
+    <string name="hint_enter_text">Enter text here</string>
+    <string name="hint_select_option">Select option</string>
+    <string name="btn_count">Count</string>
+    <string name="result_label">Result: </string>
+    <string name="warning_empty_text">Text cannot be empty</string>
+    <string name="word_option">Words</string>
+    <string name="char_option">Characters</string>
 </resources>
+
